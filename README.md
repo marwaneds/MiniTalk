@@ -1,0 +1,1 @@
+Ce projet a pour but de créer une petite messagerie, mettant en œuvre des fonctionnalités de communication simples. Grâce à ce projet, j'ai appris à utiliser les signaux, ce qui m'a permis de mieux comprendre la gestion des communications inter-processus et l'interaction en temps réel entre différentes parties de l'application.
